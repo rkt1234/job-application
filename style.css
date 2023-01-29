@@ -1,0 +1,90 @@
+body
+{
+    background-image: url("https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_11_Highest_Salary_Jobs_in_India_to_Watch_Out_For_in_2022.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.heading
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: yellow;
+}
+.main
+{
+    padding-top: 400px;
+}
+.email-phone
+{
+    display: inline-flex;
+}
+.email-input
+{
+    margin-right: 8px;
+}
+.main
+{
+    padding: 20px;
+    margin-top: 20px;
+}
+.name
+{
+    margin-top: 80px;
+    color: yellow;
+    font-size: 20px;
+    font-weight: bold;
+}
+.email-phone
+{
+    margin-top: 20px;
+    color: yellow;
+    font-size: 20px;
+    font-weight: bold;
+}
+.choice
+{
+    margin-top: 40px;
+    color: yellow;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.resume
+{
+    margin-top: 20px;
+    color: yellow;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+button
+{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+marquee
+{
+    color: yellow;
+    background-color: brown;
+    height: 60px;
+    font-size: 20px;
+}
+.firstline input
+{
+  width: 250px;
+  height: 50px;
+}
+.email-phone input
+{
+  width: 250px;
+  height: 50px;
+}
+.choice .position
+{
+    width: 250px;
+    height: 50px;
+}
